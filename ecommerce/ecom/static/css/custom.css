@@ -1,0 +1,25 @@
+body{
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.my_banner{
+    padding: 10px;
+}
+
+.nav-item{
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+.dropdown-item{
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.foot{
+    text-align: center;
+    margin-bottom: 50px;
+    padding: 0;
+}
+
